@@ -3,7 +3,7 @@
 ![license](https://img.shields.io/badge/license-MIT-blue.svg) ![version](https://img.shields.io/badge/version-0.4.9-blue.svg)
 
 ## We won 3'rd place in the Impact HUB Istanbul Innovation Hackathon with M.Y-Inventory!
-
+ 
 ## Description
 
 M.Y-Inventory is an Inventory Management System that contains user-friendly modules which are Admin Dashboard, Inventory, Orders, Recipes, and Tutorials with 3 different language supports and fully responsive across all devices featuring different use cases for mobile use.
@@ -41,5 +41,5 @@ https://my-inventory.netlify.app
 
 ## Licensing
 
-- Copyright 2020 Kardesler Coding
+- Copyright 2020 Kardesler Coding (Bertaç Severcan, Orçun Sağırsoy, Jennet Hydyrova, 	Ihab Almashhadani and Fadime Özdemir)
 - Licensed under MIT (https://github.com/creativetimofficial/material-dashboard-react/blob/master/LICENSE.md)
