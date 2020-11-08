@@ -2,13 +2,13 @@ import * as firebase from 'firebase';
 import 'firebase/database';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCpUk4RtMohc1fg4WoljZUZrLGDWVfrlyU",
-    authDomain: "tina-zita-2.firebaseapp.com",
-    databaseURL: "https://tina-zita-2.firebaseio.com",
-    projectId: "tina-zita-2",
-    storageBucket: "tina-zita-2.appspot.com",
-    messagingSenderId: "529532594205",
-    appId: "1:529532594205:web:24a37b81025e0b17fc7ef4"
+   apiKey: "AIzaSyDc-XRoX0JHVsvGSb0gHMpbnMBTe2C5Cwo",
+    authDomain: "tina-zita-portfolio.firebaseapp.com",
+    databaseURL: "https://tina-zita-portfolio.firebaseio.com",
+    projectId: "tina-zita-portfolio",
+    storageBucket: "tina-zita-portfolio.appspot.com",
+    messagingSenderId: "1025820016213",
+    appId: "1:1025820016213:web:f7b923aa71e095ee905edc"
   };
 firebase.initializeApp(firebaseConfig);
 
